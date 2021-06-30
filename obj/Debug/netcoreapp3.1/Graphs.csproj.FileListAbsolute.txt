@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Graph\bin\Debug\netcoreapp3.1\Graphs.exe
+C:\Users\Lenovo\Desktop\Graph\bin\Debug\netcoreapp3.1\Graphs.deps.json
+C:\Users\Lenovo\Desktop\Graph\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Graph\bin\Debug\netcoreapp3.1\Graphs.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Graph\bin\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\Lenovo\Desktop\Graph\bin\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.dll
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.pdb
+C:\Users\Lenovo\Desktop\Graph\obj\Debug\netcoreapp3.1\Graphs.genruntimeconfig.cache
