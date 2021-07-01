@@ -63,12 +63,20 @@ namespace Graph
             graph.AddEdge(v3, v4);
             graph.AddEdge(v4, v3);
 
+            Console.Write(" ");
+            for (int i = 0; i < graph.VertexCount; i++){
+            	Console.Write(" |" + i + "| ");
+            }
+
+            Console.WriteLine();
             var matrix = graph.GetMatrix();
             for (int i = 0; i < graph.VertexCount; i++)
             {
+            	Console.WriteLine("___________________________________________________");
+            	Console.Write(i);
                 for (int j = 0; j < graph.VertexCount; j++)
                 {
-                    Console.Write(" " + matrix[i, j] + " ");
+                    Console.Write(" |" + matrix[i, j] + "| ");
                 }
                 Console.WriteLine();
             }
